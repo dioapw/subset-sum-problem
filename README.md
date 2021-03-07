@@ -91,4 +91,5 @@ Jadi, jika jumlah elemen solusi parsial kita sama dengan bilangan bulat positif 
 # Referensi
 - [iq.opengenus.org/subset-sum-problem-backtracking](https://iq.opengenus.org/subset-sum-problem-backtracking/#:~:text=Algorithms%20backtracking&text=Subset%20sum%20problem%20is%20the,approach%20towards%20subset%20sum%20problem.)
 - [www.javatpoint.com/subset-sum-problems](https://www.javatpoint.com/subset-sum-problems)
+- [www.tutorialspoint.com/Subset-Sum-Problem](https://www.tutorialspoint.com/Subset-Sum-Problem)
 
