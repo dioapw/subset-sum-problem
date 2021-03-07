@@ -1,2 +1,2 @@
-# Subset-Sum-Problem
+# Subset Sum Problem
 Backtracking Approach
