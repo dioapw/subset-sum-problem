@@ -1,5 +1,5 @@
 # Subset Sum Problem
-Algoritma ini menggunakan pendekatan "backtracking" untuk menyelesaikan permasalahan Subset Sum Problem yang memiliki kompleksitas waktu O(2^n) dan ini sedikit lebih cepat dibandingkan cara rekursif walaupun tetap kompleksitas waktunya eksponensial
+Algoritma ini menggunakan pendekatan "backtracking" untuk menyelesaikan permasalahan Subset Sum Problem yang memiliki kompleksitas waktu O(2^n) dan ini sedikit lebih cepat dibandingkan cara rekursif walaupun tetap kompleksitas waktunya eksponensial.
 
 Subset Sum Problem adalah masalah menemukan subset sedemikian rupa sehingga jumlah elemen sama dengan angka tertentu. Pendekatan backtracking menghasilkan semua permutasi dalam kasus terburuk tetapi secara umum, berkinerja lebih baik daripada pendekatan rekursif terhadap masalah jumlah subset.
 
