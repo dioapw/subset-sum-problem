@@ -61,13 +61,12 @@ function backTrack (int subSet[], int jumlahSementara, int jumlahDicari, int nil
 	    }
     }
 }
-
+```
 <br />
 
-```
 ## Contoh
 ```
-S = (3, 4, 5, 6) and X =9.
+S = (3, 4, 5, 6) and X = 9.
 ```
 Pohon biner implisit untuk masalah jumlah subset ditampilkan sebagai gambar:
 ![alt text](https://static.javatpoint.com/tutorial/daa/images/subset-sum-problems2.png)
