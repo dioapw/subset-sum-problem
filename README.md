@@ -26,7 +26,7 @@ Masalah ini dapat diselesaikan dengan menggunakan algoritma berikut:
 - Metode rekursif
 - Backtracking
 - Dynamic Programing
-- 
+
 <br />
 
 ## Backtracking
