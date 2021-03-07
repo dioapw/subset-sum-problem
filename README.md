@@ -73,13 +73,14 @@ Jadi, jika jumlah elemen solusi parsial kita sama dengan bilangan bulat positif 
 - Kompleksitas waktu kasus terburuk: Θ(2 ^ n)
 - Kompleksitas ruang: Θ(1)
 
-
+<br />
 
 # Video Penjelasan
 [![](http://img.youtube.com/vi/kyLxTdsT8ws/0.jpg)](http://www.youtube.com/watch?v=kyLxTdsT8ws "Sum Of Subsets Problem - Backtracking")
 
+<br />
 
 # Referensi
-[iq.opengenus.org/subset-sum-problem-backtracking](https://iq.opengenus.org/subset-sum-problem-backtracking/#:~:text=Algorithms%20backtracking&text=Subset%20sum%20problem%20is%20the,approach%20towards%20subset%20sum%20problem.)
-[www.javatpoint.com/subset-sum-problems](https://www.javatpoint.com/subset-sum-problems)
+- [iq.opengenus.org/subset-sum-problem-backtracking](https://iq.opengenus.org/subset-sum-problem-backtracking/#:~:text=Algorithms%20backtracking&text=Subset%20sum%20problem%20is%20the,approach%20towards%20subset%20sum%20problem.)
+- [www.javatpoint.com/subset-sum-problems](https://www.javatpoint.com/subset-sum-problems)
 
