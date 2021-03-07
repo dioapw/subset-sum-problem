@@ -26,7 +26,7 @@ Masalah ini dapat diselesaikan dengan menggunakan algoritma berikut:
 - Metode rekursif
 - Backtracking
 - Dynamic Programing
-
+<br />
 ## Backtracking
 Dalam algoritma Backtracking, saat kita menyusuri kedalaman pohon, kita menambahkan elemen sejauh ini, dan jika jumlah yang ditambahkan memenuhi batasan eksplisit, kita akan terus menghasilkan simpul anak lebih jauh. Setiap kali batasan tidak terpenuhi, kita menghentikan pembuatan sub-pohon lebih lanjut dari node tersebut dan mundur ke node sebelumnya untuk menjelajahi node yang belum dieksplorasi. Kita perlu menjelajahi node bersama dengan luas dan kedalaman pohon. Kontrol loop menghasilkan node bersama dengan luasnya, dan menghasilkan node di sepanjang kedalaman menggunakan rekursi  (post-order traversal).
 
@@ -38,7 +38,7 @@ Dalam algoritma Backtracking, saat kita menyusuri kedalaman pohon, kita menambah
 4. Jika subset tidak dapat diterapkan atau jika kita telah mencapai akhir dari set, maka lacak kembali subset tersebut hingga kita menemukan nilai yang paling sesuai.
 5. Jika subset bisa diterapkan (jumlah subset < M), lanjutkan ke langkah 2.
 6. Jika kita telah mengunjungi semua elemen tanpa menemukan subset yang sesuai dan jika tidak ada backtracking yang memungkinkan maka hentikan tanpa solusi.
-
+<br />
 ## Pseudocode
 
 ```
@@ -57,6 +57,7 @@ function backTrack (int subSet[], int jumlahSementara, int jumlahDicari, int nil
 	    }
     }
 }
+<br />
 ```
 ## Contoh
 ```
@@ -68,6 +69,8 @@ Pohon biner implisit untuk masalah jumlah subset ditampilkan sebagai gambar:
 Angka di dalam node adalah jumlah dari elemen solusi parsial pada level tertentu.
 
 Jadi, jika jumlah elemen solusi parsial kita sama dengan bilangan bulat positif 'X' maka pada saat itu pencarian akan dihentikan, atau dilanjutkan jika semua solusi yang mungkin perlu diperoleh.
+
+<br />
 
 # Kompleksitas
 - Kompleksitas waktu kasus terburuk: Θ(2 ^ n)
